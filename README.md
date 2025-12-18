@@ -55,7 +55,3 @@ Con el fin de formular el problema como una tarea de clasificación, la variable
 * High
 
 Esta transformación permite clasificar a los países según su nivel relativo de ingreso y facilita la aplicación de modelos de clasificación supervisada en las etapas posteriores.
-
-### Resultados de la etapa
-
-Finalmente, el notebook correspondiente a esta etapa —con todos los análisis, visualizaciones y justificaciones— es ejecutado y enviado al repositorio de GitHub en la rama asociada a la **Etapa 1**, cumpliendo con las indicaciones de control de versiones del proyecto.
