@@ -1,4 +1,4 @@
-## Etapa 1: Análisis Descriptivo e Imputación de Datos
+## Etapa 1: Análisis descriptivo e imputación de datos
 
 La primera etapa del proyecto tiene como objetivo comprender la estructura general del conjunto de datos y preparar la información para las etapas posteriores de reducción de dimensionalidad y modelación. Para ello, se realiza un análisis descriptivo exhaustivo y un tratamiento sistemático de los datos faltantes, asegurando la coherencia y calidad del dataset.
 
